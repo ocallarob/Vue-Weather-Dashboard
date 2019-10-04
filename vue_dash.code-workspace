@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "/Users/rob/src/pdf-form-action/auttoio-api"
+	},
+	{
+		"path": "/Users/rob/src/pdf-form-action/auttoio-admin"
+	},
+	{
+		"path": "/Users/rob/src/pdf-form-action/auttoio-document-builder"
+	},
+	{
+		"path": "/Users/rob/src/pdf-form-action/auttoio-frontend"
+	}
+],
+  "settings": {}
+}
