@@ -1,6 +1,6 @@
 <template>
   <div id="uvIndex">
-    <p>UV Index: {{ uvindex }}</p>
+    <p>UV Index: {{ uvIndex }}</p>
   </div>
 </template>
 
