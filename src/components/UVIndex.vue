@@ -1,5 +1,5 @@
 <template>
-  <div id="uvindex">
+  <div id="uvIndex">
     <p>UV Index: {{ uvindex }}</p>
   </div>
 </template>
@@ -9,7 +9,7 @@ export default {
   props: ["highlights"],
   data() {
     return {
-      uvindex: this.highlights.uvindex
+      uvIndex: this.highlights.uvIndex
     };
   },
   methods: {},
